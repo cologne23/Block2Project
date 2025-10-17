@@ -1,5 +1,4 @@
 # Block2Project
-# Block 2 Project
 
 ## Overview
 This repository contains code and supporting files for my **Block 2 Ethics and Technology Project** at the University of Utah.  
