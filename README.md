@@ -9,6 +9,6 @@ The repository may include:
 - Code used to model or visualize moral dilemmas or AI systems.
 - Documentation connecting programming tasks to real-world ethical issues.
 
-## 🧭 Purpose
+## Purpose
 The purpose of this repository is to share the technical components of my coursework while promoting open access and collaboration.  
 All work here is made publicly available for educational and non-commercial use under the **MIT License**, encouraging others to learn from and adapt the material responsibly.
